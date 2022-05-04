@@ -1,7 +1,7 @@
 Type: Package
 Package: openxlsx
 Title: Read, Write and Edit xlsx Files
-Version: 4.2.6-cleyrop.2
+Version: 4.2.6-cleyrop-3
 Date: 2022-05-04
 Authors@R: 
     c(person(given = "Philipp",
@@ -26,7 +26,11 @@ Authors@R:
              family = "Barbone",
              role = "ctb",
              email = "jmbarbone@gmail.com",
-             comment = c(ORCID = "0000-0001-9788-3628")))
+             comment = c(ORCID = "0000-0001-9788-3628")),
+      person(given = "Yann",
+             family = "Petit",
+             role = "ctb",
+             email = "yann.petit@gmail.com"))
 Description: Simplifies the creation of Excel .xlsx files by providing a
     high level interface to writing, styling and editing worksheets.
     Through the use of 'Rcpp', read/write times are comparable to the
