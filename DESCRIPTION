@@ -1,8 +1,8 @@
 Type: Package
 Package: openxlsx
 Title: Read, Write and Edit xlsx Files
-Version: 4.2.5.1
-Date: 2021-12-13
+Version: 4.2.6-cleyrop.2
+Date: 2022-05-04
 Authors@R: 
     c(person(given = "Philipp",
              family = "Schauberger",
@@ -34,7 +34,8 @@ Description: Simplifies the creation of Excel .xlsx files by providing a
     dependency on Java.
 License: MIT + file LICENSE
 URL: https://ycphs.github.io/openxlsx/index.html,
-    https://github.com/ycphs/openxlsx
+    https://github.com/ycphs/openxlsx,
+    https://github.com/finalspy/openxlsx
 BugReports: https://github.com/ycphs/openxlsx/issues
 Depends:
     R (>= 3.3.0)
